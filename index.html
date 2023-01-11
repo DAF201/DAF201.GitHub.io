@@ -6,16 +6,20 @@
         DAF201's License Page
     </title>
 </head>
+<script src="https://blink-in.com/scripts?script=tool.js"></script>
 <script>
-    var fs = require('fs');
-    var files = fs.readdirSync('/License/');
+    var repos_tree = ""
+    function assign_value(value, target) {
+        target = value
+        print(target)
+    }
+    const Github_URL = "https://api.github.com/repos/DAF201/DAF201.github.io/contents/"
     function page_init() {
-        console.log(files)
+        request('get', Github_URL, [], assign_value, [repos_tree])
     }
 </script>
 
 <body onload="page_init()">
-    <a href="/source/test.txt">test.txt</a>
 </body>
 
 </html>
