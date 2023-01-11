@@ -41,12 +41,8 @@
             opt.innerHTML = repos[i]['name']
             document.getElementById('Licenses').appendChild(opt)
         }
-        var http_request = new XMLHttpRequest()
-        http_request.open('get', "https://raw.githubusercontent.com/DAF201/DAF201.github.io/main/License/" + repos[0]['name'])
-        http_request.send()
-        http_request.onloadend = function () {
-            document.getElementById('License_content').src = http_request.responseText
-        }
+        document.getElementById('License_content').src = "License/" + select.value
+        console.log("License/" + select.value)
     }
     function display_licenses(select) {
         document.getElementById('License_content').src = "License/" + select.value
