@@ -1,5 +1,5 @@
 # My License Page
 
-for licenses viewing, will dynamically update by js
+Just for licenses Viewing, the licenses update is via JavaScript. So new licenses should be available to view immediately after I upload to License directory
 
-https://daf201.github.io/
+[All licenses](https://daf201.github.io/)
