@@ -1,25 +1,62 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <title>
         DAF201's License Page
     </title>
 </head>
-<script src="https://blink-in.com/scripts?script=tool.js"></script>
 <script>
-    var repos_tree = ""
-    function assign_value(value, target) {
-        target = value
-        print(target)
-    }
-    const Github_URL = "https://api.github.com/repos/DAF201/DAF201.github.io/contents/"
+    var repos = ''
+    const Github_URL = 'https://api.github.com/repos/DAF201/DAF201.github.io/contents/License'
     function page_init() {
-        request('get', Github_URL, [], assign_value, [repos_tree])
+        try {
+            var http_request = new XMLHttpRequest()
+            http_request.open('get', Github_URL)
+            http_request.send()
+            http_request.onloadend = function () {
+                repos = http_request.responseText
+            }
+        } catch (err) {
+            consoel.log(err)
+        }
+    }
+    var License_loaded = false
+    function load_licenses() {
+        if (License_loaded) {
+            return
+        }
+        License_loaded = true
+        repos = JSON.parse(repos)
+        for (let i = 0; i < repos.length; i++) {
+            let opt = document.createElement('option');
+            opt.value = repos[i]['name']
+            opt.innerHTML = repos[i]['name']
+            document.getElementById('Licenses').appendChild(opt)
+        }
+        var http_request = new XMLHttpRequest()
+        http_request.open('get', "https://raw.githubusercontent.com/DAF201/DAF201.github.io/main/License/" + repos[0]['name'])
+        http_request.send()
+        http_request.onloadend = function () {
+            document.getElementById('License_content').innerHTML = http_request.responseText
+        }
+    }
+    function display_licenses(select) {
+        var http_request = new XMLHttpRequest()
+        http_request.open('get', "https://raw.githubusercontent.com/DAF201/DAF201.github.io/main/License/" + select.value)
+        http_request.send()
+        http_request.onloadend = function () {
+            document.getElementById('License_content').innerHTML = http_request.responseText
+        }
     }
 </script>
 
-<body onload="page_init()">
+<body onload='page_init()'>
+    <label for='License'>Choose a License:</label>
+    <select name='Licenses' id='Licenses' onclick='load_licenses()' onchange='display_licenses(this)' value='NONE'>
+    </select>
+    <article id='License_content'>
+
+    </article>
 </body>
 
 </html>
