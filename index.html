@@ -53,7 +53,7 @@
 
 <body onload='page_init()'>
     <label for='License'>Choose a License:</label>
-    <select name='Licenses' id='Licenses' onclick='load_licenses()' onselect='display_licenses(this)' value='README.md'>
+    <select name='Licenses' id='Licenses' onclick='load_licenses()' onchange='display_licenses(this)' value='README.md'>
     </select>
     <div id='License_content'>
         <zero-md src='README.md'></zero-md>
