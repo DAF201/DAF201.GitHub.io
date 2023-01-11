@@ -7,8 +7,10 @@
     </title>
 </head>
 <script>
+    var fs = require('fs');
+    var files = fs.readdirSync('/License/');
     function page_init() {
-
+        console.log(files)
     }
 </script>
 
