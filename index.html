@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>
         DAF201's License Page
@@ -48,12 +49,12 @@
         }
     }
     function display_licenses(select) {
-        var http_request = new XMLHttpRequest()
-        http_request.open('get', "https://raw.githubusercontent.com/DAF201/DAF201.github.io/main/License/" + select.value)
-        http_request.send()
-        http_request.onloadend = function () {
-            document.getElementById('License_content').src = http_request.responseText
-        }
+        // var http_request = new XMLHttpRequest()
+        // http_request.open('get', "https://raw.githubusercontent.com/DAF201/DAF201.github.io/main/License/" + select.value)
+        // http_request.send()
+        // http_request.onloadend = function () {
+        document.getElementById('License_content').src = "https://raw.githubusercontent.com/DAF201/DAF201.github.io/main/License/" + select.value
+        // }
     }
 </script>
 
