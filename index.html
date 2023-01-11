@@ -41,11 +41,6 @@
             opt.innerHTML = repos[i]['name']
             document.getElementById('Licenses').appendChild(opt)
         }
-        let display_section = document.getElementById('License_content')
-        while (display_section.firstChild) {
-            display_section.firstChild.remove()
-        }
-        display_section.insertAdjacentHTML("afterbegin", "<zero-md src='README.md'></zero-md>")
     }
     function display_licenses(select) {
         let display_section = document.getElementById('License_content')
@@ -58,12 +53,11 @@
 
 <body onload='page_init()'>
     <label for='License'>Choose a License:</label>
-    <select name='Licenses' id='Licenses' onclick='load_licenses()' onchange='display_licenses(this)' value='README.md'>
+    <select name='Licenses' id='Licenses' onclick='load_licenses()' onselect='display_licenses(this)' value='README.md'>
     </select>
     <div id='License_content'>
-
+        <zero-md src='README.md'></zero-md>
     </div>
-
 </body>
 
 </html>
