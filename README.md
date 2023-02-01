@@ -1,5 +1,5 @@
-# My License Page
+# DAF201's documents libs
 
-Just for licenses and document viewing, the update is via JavaScript. So new documents should be available immediately after I upload to License directory
+For ASCII documents viewing!
 
 To see all licenses: https://daf201.github.io/
