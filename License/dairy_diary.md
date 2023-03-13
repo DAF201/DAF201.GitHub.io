@@ -3,6 +3,7 @@
 >
 > - 1836 Chocolate: allergy
 >
+> - Guava candy: health reason
 
 # Ban
 > - H-E-B plus sushi: medium allergy
