@@ -4,6 +4,8 @@
 > - 1836 Chocolate: allergy
 >
 > - Guava candy: health reason
+> 
+> - Swisscandy: as above
 
 # Ban
 > - H-E-B plus sushi: medium allergy
