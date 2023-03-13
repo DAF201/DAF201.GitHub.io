@@ -2,4 +2,4 @@
 
 For ASCII documents viewing!
 
-To see all licenses: https://daf201.github.io/
+https://daf201.github.io/
