@@ -9,6 +9,8 @@
 
 # Ban
 > - H-E-B plus sushi: medium allergy
+>
+> - Past
 
 # Suspicious Allergen
 > - Costco pineapple cake
