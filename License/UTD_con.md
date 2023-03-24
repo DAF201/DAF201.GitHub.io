@@ -55,7 +55,7 @@ FORMAT:
 > 
 >> CS 2340
 ---
-Huizhen Guo
+> ### Huizhen Guo
 > Rate: ☆☆
 >
 > Description:
