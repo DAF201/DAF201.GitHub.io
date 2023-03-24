@@ -49,9 +49,8 @@ Huizhen Guo
 > known courses:
 > 
 >> CS 3341
-
+---
 ## LIT:
-
 > ### Robin Sinckler:
 > Rate: ☆
 >
@@ -66,9 +65,8 @@ Huizhen Guo
 > known courses:
 >
 >> LIT 2331
-
+---
 ## PHYS:
-
 > ### Lamya Saleh
 > Rate: ☆☆☆
 >
@@ -83,9 +81,8 @@ Huizhen Guo
 > known courses:
 > 
 >> PHYS 2326
-
+---
 ## PSY:
-
 > ### Kristin J Atchison
 > Rate: ☆☆☆
 >
@@ -100,8 +97,12 @@ Huizhen Guo
 > known courses:
 > 
 >> PSY 2301
+---
 
-<!-- NAME
+<!-- FORMAT:
+
+## MAJOR:
+> ### NAME
 > Rate: 
 >
 > Description:
@@ -114,4 +115,5 @@ Huizhen Guo
 > 
 > known courses:
 > 
->>  -->
+>> 
+--- -->
