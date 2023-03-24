@@ -1,0 +1,117 @@
+# UTD Con
+> ### A list of instructors you probably should avoid even if you came here unfortunately
+>
+> Rate are based on 5 stars scale
+
+## CS:
+
+Simeon Ntafos
+> Rate: ☆
+>
+> Description:
+> 
+>> Extremely boring class, literal reading pdf for one and a half hour, and his never provide any valuable feedback for any question
+> 
+> comments:
+> 
+>> if you still care about your ears, find another one
+> 
+> known courses:
+> 
+>> CS 2305
+
+Nhut Nguyen
+> Rate: ☆
+>
+> Description:
+> 
+>> IP check for attendant quiz, boring class, stupid case sensitive filling the blank questions in exam, and make students pay for the mistake he made in the exam, and always argue with pointless things whil he can't even explain things clearly
+> 
+> comments:
+> 
+>> definitely you should avoid and try to tell others not to come if you still love your self and other people around
+> 
+> known courses:
+> 
+>> CS 2340
+
+Huizhen Guo
+> Rate: ☆☆
+>
+> Description:
+> 
+>> not "bad", just boring... very...very...boring course... Additionally, personally I don't like her always make statistic/probability examples out of covid...I feel offended
+> 
+> comments:
+> 
+>> course is easy, exam is easy, homework is hard, but overall is easy but boring
+> 
+> known courses:
+> 
+>> CS 3341
+
+## LIT:
+
+Robin Sinckler:
+> Rate: ☆
+>
+> Description:
+>
+>> Essay heavy, and the class is not teaching anything useful, plus she will always try to take points from your essay if she don't like your point of view. Half of the class dropped within the first week.
+>
+> comments:
+> 
+>> not a happy class, everyone come in with an about to cry face
+> 
+> known courses:
+>
+>> LIT 2331
+
+## PHYS:
+
+Lamya Saleh
+> Rate: ☆☆☆
+>
+> Description:
+> 
+>> just not recommended level, the course is extremely boring, that is all
+> 
+> comments:
+> 
+>> "OKAY" level if you are okay with just doing example question for 1h 30 mins 2 times a week and homeworks... The class is not that bad also not good I will say
+> 
+> known courses:
+> 
+>> PHYS 2326
+
+## PSY:
+
+Kristin J Atchison
+> Rate: ☆☆☆
+>
+> Description:
+> 
+>> course and prof are good, but exam and homework are extremely heavy...
+> 
+> comments:
+> 
+>> I almost got mental disorder after took this mental associated course
+> 
+> known courses:
+> 
+>> PSY 2301
+
+<!-- NAME
+> Rate: 
+>
+> Description:
+> 
+>> 
+> 
+> comments:
+> 
+>> 
+> 
+> known courses:
+> 
+>>  -->
