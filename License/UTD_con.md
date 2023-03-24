@@ -7,20 +7,20 @@
 FORMAT:
 ```md
 ## MAJOR:
-> ### NAME
+> ### the_name
 > Rate: 
 >
 > Description:
 > 
->> your description
+>> your_description
 > 
 > comments:
 > 
->> your comments
+>> your_comments
 > 
-> known courses:
+> known_courses:
 > 
->> courses you know this person is teaching/taught
+>> courses_you_took_or_taking
 ---
 ```
 ## CS:
