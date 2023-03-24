@@ -5,7 +5,7 @@
 
 ## CS:
 
-Simeon Ntafos
+> ### Simeon Ntafos
 > Rate: ☆
 >
 > Description:
@@ -19,8 +19,8 @@ Simeon Ntafos
 > known courses:
 > 
 >> CS 2305
-
-Nhut Nguyen
+---
+> ### Nhut Nguyen
 > Rate: ☆
 >
 > Description:
@@ -34,7 +34,7 @@ Nhut Nguyen
 > known courses:
 > 
 >> CS 2340
-
+---
 Huizhen Guo
 > Rate: ☆☆
 >
@@ -52,7 +52,7 @@ Huizhen Guo
 
 ## LIT:
 
-Robin Sinckler:
+> ### Robin Sinckler:
 > Rate: ☆
 >
 > Description:
@@ -69,7 +69,7 @@ Robin Sinckler:
 
 ## PHYS:
 
-Lamya Saleh
+> ### Lamya Saleh
 > Rate: ☆☆☆
 >
 > Description:
@@ -86,7 +86,7 @@ Lamya Saleh
 
 ## PSY:
 
-Kristin J Atchison
+> ### Kristin J Atchison
 > Rate: ☆☆☆
 >
 > Description:
