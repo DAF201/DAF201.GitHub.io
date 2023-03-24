@@ -3,6 +3,26 @@
 >
 > Rate are based on 5 stars scale
 
+> if you want to add someone, pull request with following
+FORMAT:
+```md
+## MAJOR:
+> ### NAME
+> Rate: 
+>
+> Description:
+> 
+>> your description
+> 
+> comments:
+> 
+>> your comments
+> 
+> known courses:
+> 
+>> courses you know this person is teaching/taught
+---
+```
 ## CS:
 
 > ### Simeon Ntafos
@@ -98,22 +118,3 @@ Huizhen Guo
 > 
 >> PSY 2301
 ---
-
-<!-- FORMAT:
-
-## MAJOR:
-> ### NAME
-> Rate: 
->
-> Description:
-> 
->> 
-> 
-> comments:
-> 
->> 
-> 
-> known courses:
-> 
->> 
---- -->
