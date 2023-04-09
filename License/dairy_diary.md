@@ -6,7 +6,9 @@
 > - Guava candy: health reason
 > 
 > - Swisscandy: as above
-
+>
+> MIPS
+> 
 # Ban
 > - H-E-B plus sushi: medium allergy
 >
