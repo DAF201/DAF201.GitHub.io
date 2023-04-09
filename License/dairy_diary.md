@@ -7,7 +7,9 @@
 > 
 > - Swisscandy: as above
 >
-> MIPS
+> - MIPS
+>
+> - BST recursion
 > 
 # Ban
 > - H-E-B plus sushi: medium allergy
