@@ -1,4 +1,4 @@
-# UTD CON
+# UTD CON LIST
 > ### A list of instructors you probably should avoid even if you came here unfortunately
 >
 > Rate are based on 5 stars scale
