@@ -1,3 +1,4 @@
+For github only, you can just use HTML for other markdown
 ```diff
 + test
 - test
