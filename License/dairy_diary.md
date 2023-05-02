@@ -10,6 +10,8 @@
 > - MIPS
 >
 > - BST recursion
+>
+> - BST sorting
 > 
 # Ban
 > - H-E-B plus sushi: medium allergy
@@ -22,3 +24,5 @@
 > - Hyperpressure
 >
 > - lobster
+>
+> - Costco ramen
