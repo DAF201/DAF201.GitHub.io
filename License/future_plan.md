@@ -5,4 +5,4 @@
 | 05/12/23      | back to home    | back to home                                 |
 | 08/??/23      | back to home    | back to home                                 |
 | ??/??/??      | learn add user  | add user to repo(finished)                   |
-| 05/05/23      |INTERNET_OVERDOSE|![](https://github.com/DAF201/DAF201.github.io/blob/main/static/Internet_Overdose.png)|
+| 05/05/23      |INTERNET_OVERDOSE| $\E^N_{D}$ $_D\hat{A} _{\grave{T}}\E: \frac{\grave{T}\vec{B}_D}{\sum{N}\int{}\hat{A}}$ <br> ![](https://github.com/DAF201/DAF201.github.io/blob/main/static/Internet_Overdose.png)|
