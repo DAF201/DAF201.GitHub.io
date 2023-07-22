@@ -10,4 +10,4 @@
 | 07/03/23      | place order     | place order okay                             |
 | 07/03/23      | blender         | play around with it                          |
 | 07/17/23      | timer           | userdata\482146072\config\localconfig.vdf <br /> "1451940"[\S\s]*{[\S\s]*}|
-| 07/22/23      | 08/10/23        | mandatory leaving Texas, starting form 08/10/23 to $TBD$|
+| 07/22/23      | 08/10/23        | mandatory leaving Texas, starting from 08/10/23 to $\TBD$, minimum of 7 work days|
