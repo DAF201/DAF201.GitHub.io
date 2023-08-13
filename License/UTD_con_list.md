@@ -86,6 +86,21 @@ FORMAT:
 >
 >> LIT 2331
 ---
+> ### Janece Lauser:
+> Rate: ☆☆☆
+>
+> Description:
+>
+>> Really depends, her grading rules were very clear, however, the course is very very writing heavy. 
+>
+> comments:
+> 
+>> if you are not busy then it should be fine. But if you have some other course then probably you will not want to have several essays due one by one.
+> 
+> known courses:
+>
+>> ECS 3390
+---
 ## PHYS:
 > ### Lamya Saleh
 > Rate: ☆☆☆
