@@ -20,4 +20,4 @@ Everyone can use, copy, and modify the copy of associated softwares, documents, 
 
 7. ~Go read "Happly sugar life" if possible~
 
-7. Go watch "Odd Taxi" if possible
+8. Go watch "Odd Taxi" if possible
