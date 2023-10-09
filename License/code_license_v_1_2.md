@@ -16,10 +16,12 @@ Everyone can use, copy, and modify the copy of associated softwares, documents, 
 
 5. Everyone who obtains a copy or modified copy must have this license in the copy or modified copy too.
 
-6. DO NOT USE MY SERVER FOR YOUR CRAWLER OR ANYTHING LIKE THAT, MY SERVER CHARGE BY USAGE NOT, AND I AM DAMNING POOR.
+6. Don't use on crawler and try not to use for polling requests.
 
-7. ~Go read "Happly sugar life" if possible~
+7. 100% forbidden for unauthorized academic use like individual project or team project of CS course. academic honesty is important.
 
-8. ~Go watch "Odd Taxi" if possible~
+8. ~Go read "Happly sugar life" if possible~
 
-9. Go watch "Call of the night" if possible
+9. ~Go watch "Odd Taxi" if possible~
+
+10.  Go watch "Call of the night" if possible
