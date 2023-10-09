@@ -18,7 +18,7 @@ Everyone can use, copy, and modify the copy of associated softwares, documents, 
 
 6. Don't use on crawler and try not to use for polling requests.
 
-7. 100% forbidden for unauthorized academic use like individual project or team project of CS course. academic honesty is important.
+7. 100% forbidden for unauthorized academic usage like individual coding projects or team coding projects of CS course. academic honesty is important, grades don't come for free.
 
 8. ~Go read "Happly sugar life" if possible~
 
