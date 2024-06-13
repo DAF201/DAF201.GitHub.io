@@ -101,6 +101,22 @@ FORMAT:
 >
 >> ECS 3390
 ---
+## MAJOR:
+> ### Lawrence Chung
+> Rate: ☆
+>
+> Description: 
+> 
+>> the live defination of "old school". The home page was like a FTP page, and the lecture looks like from last century. And sometimes you just don't know why is this guy laughing.
+> 
+> comments:
+> 
+>> just don't take his course, save yourself some energy from trying to understand his accent. "Do you follow me?"
+> 
+> known_courses:
+> 
+>> CS 4376
+---
 ## PHYS:
 > ### Lamya Saleh
 > Rate: ☆☆☆
